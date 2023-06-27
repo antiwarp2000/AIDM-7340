@@ -17,7 +17,7 @@ The most representative of these is Li Wenliang's Weibo comment area, and people
 Our study intends to use AI-based classification models as aids to investigate the profound communicative characteristics behind this phenomenon, focusing primarily on the comments section for Dr. Li Wenliang, while also incorporating 11 other cases of large-scale online mourning in the Chinese internet as a control group. Through analysis of text content and development trends, we hope to shed light on this phenomenon.
 
 ## **Academic Poster**
-![Image Text](https://github.com/KIDult2226/AIDM-7340/blob/main/images/poster_finalfinalfinal_00.png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/blob/main/images/poster_finalfinalfinal_00.png)
 
 ## **Visualization Result**
 ![Average Comments Per Day](https://github.com/KIDult2226/AIDM-7340/blob/main/images/Number%20of%20Comments%20and%20Average%20Comments%20Counts%20on%20Each%20Day%20(Li%20Wenliang).png)
