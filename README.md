@@ -2,7 +2,7 @@
 
 This repository was created in the Semester 2 of 2022-2023. It stores the group project datasets&codes of the course AIDM-7340 AI for Digital Media @ Hong Kong Baptist University, School of Communication (HKBU). This group project was created by <b>YU Minghao, ZHAI Yongqing, JIANG Zhuohao, SONG Yihui, FANG Ying, HE Yuchen</b>.
 
-## **Group Project**
+## **Group Project Introduction**
 
 **Wailing Wall or Tree Hole? An AI Exploration of Mourning Behaviors for the Deceased on Chinese Social Media - Taking Li Wenliang as an Example**
 
