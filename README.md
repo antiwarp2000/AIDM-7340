@@ -10,6 +10,10 @@ Our usual custom for the deceased: grieve at the beginning and not mention it fr
 
 The most representative of these is Li Wenliang's Weibo comment area, and people call it as “Chinese Wailing Wall” .Even long after their pass, people are still flooding into their accounts and pouring lots of comments everyday. Moreover, they not only mourn, but also share their own stories and emotions in departed’s accounts.
 
+<b>—— What prompted them to leave these messages?</b>
+Are there any common characteristics of these messages?
+One media phenomenon worthy of exploration
+
 ## **Academic Poster**
 ![Image Text](https://github.com/KIDult2226/AIDM-7340/blob/main/images/poster_finalfinalfinal_00.png)
 
