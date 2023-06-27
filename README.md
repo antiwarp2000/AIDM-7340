@@ -20,27 +20,27 @@ Our study intends to use AI-based classification models as aids to investigate t
 ![Image Text](https://github.com/antiwarp2000/AIDM-7340/blob/main/images/poster_finalfinalfinal_00.png)
 
 ## **Visualization Result**
-![Average Comments Per Day](https://github.com/KIDult2226/AIDM-7340/blob/main/images/Number%20of%20Comments%20and%20Average%20Comments%20Counts%20on%20Each%20Day%20(Li%20Wenliang).png)
+![Average Comments Per Day](https://github.com/antiwarp2000/AIDM-7340/blob/main/images/Number%20of%20Comments%20and%20Average%20Comments%20Counts%20on%20Each%20Day%20(Li%20Wenliang).png)
 
-![Image Text](https://github.com/KIDult2226/AIDM-7340/blob/main/images/Number%20of%20Comments%20by%20Category%20on%20Each%20Day%20(Li%20Wenliang).png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/blob/main/images/Number%20of%20Comments%20by%20Category%20on%20Each%20Day%20(Li%20Wenliang).png)
 
-![Image Text](https://github.com/KIDult2226/AIDM-7340/raw/main/images/Overall%20Trend%20of%20the%20Proportion%20of%20Comments%20by%20Category%20(Li%20Wenliang).png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/raw/main/images/Overall%20Trend%20of%20the%20Proportion%20of%20Comments%20by%20Category%20(Li%20Wenliang).png)
 
-![Image Text](https://github.com/KIDult2226/AIDM-7340/raw/main/images/Distribution%20of%20Comments.png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/raw/main/images/Distribution%20of%20Comments.png)
 
-![Image Text](https://github.com/KIDult2226/AIDM-7340/raw/main/images/Average%20Comments%20per%20User%20on%20Each%20Day%20by%20Category%20(Li%20Wenliang).png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/raw/main/images/Average%20Comments%20per%20User%20on%20Each%20Day%20by%20Category%20(Li%20Wenliang).png)
 
-![Image Text](https://github.com/KIDult2226/AIDM-7340/raw/main/images/Ratio%20of%20Tree%20Hole%20Comments%20to%20Wailing%20Wall%20(Li%20Wenliang).png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/raw/main/images/Ratio%20of%20Tree%20Hole%20Comments%20to%20Wailing%20Wall%20(Li%20Wenliang).png)
 
-![Image Text](https://github.com/KIDult2226/AIDM-7340/blob/main/images/Wordcloud%20by%20Category.png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/blob/main/images/Wordcloud%20by%20Category.png)
 
-![Image Text](https://github.com/KIDult2226/AIDM-7340/raw/main/images/Distinctive%20Wordcloud%20by%20Category.png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/raw/main/images/Distinctive%20Wordcloud%20by%20Category.png)
 
-![Image Text](https://github.com/KIDult2226/AIDM-7340/raw/main/images/Top%2020%20Commenters.png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/raw/main/images/Top%2020%20Commenters.png)
 
-![Image Text](https://github.com/KIDult2226/AIDM-7340/raw/main/images/Top%2020%20Single%20Users%E2%80%99%20Comments%20Counts%20by%20Categories.png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/raw/main/images/Top%2020%20Single%20Users%E2%80%99%20Comments%20Counts%20by%20Categories.png)
 
-![Image Text](https://github.com/KIDult2226/AIDM-7340/raw/main/images/Trend%20of%20Comments'%20Uniqueness%20Ratio.png)
+![Image Text](https://github.com/antiwarp2000/AIDM-7340/raw/main/images/Trend%20of%20Comments'%20Uniqueness%20Ratio.png)
 
 ###  **Content Introduction**
 ```
